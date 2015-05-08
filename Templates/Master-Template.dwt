@@ -1,14 +1,12 @@
 <!doctype html>
-<html><!-- InstanceBegin template="/Templates/Master-Template.dwt" codeOutsideHTMLIsLocked="false" -->
+<html>
 <head>
 <meta charset="UTF-8">
-<!-- InstanceBeginEditable name="doctitle" -->
+<!-- TemplateBeginEditable name="doctitle" -->
 <title>Untitled Document</title>
-<!-- InstanceEndEditable -->
-<!-- InstanceBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
 <!-- TemplateBeginEditable name="head" -->
 <!-- TemplateEndEditable -->
-<!-- InstanceEndEditable -->
 <link href="../styles.css" rel="stylesheet" type="text/css">
 </head>
 
@@ -22,10 +20,16 @@
     </tr>
   </tbody>
 </table>
-<!-- InstanceBeginEditable name="Banner" --><img src="../Images/background.jpg" width="950" height="150" alt=""/><!-- InstanceEndEditable -->
+<!-- TemplateBeginEditable name="Banner" -->Banner<!-- TemplateEndEditable -->
 <p>&nbsp;</p>
-<!-- InstanceBeginEditable name="Content" --><!-- InstanceEndEditable -->
+<!-- TemplateBeginEditable name="Content" -->
+<p>Content</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<!-- TemplateEndEditable -->
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 </body>
-<!-- InstanceEnd --></html>
+</html>
