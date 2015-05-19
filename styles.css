@@ -1,8 +1,19 @@
 .background-color {
 	background-color: #963;
+	font-size: medium;
 }
 .textstyle {
-	font-family: ariel;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: 50px;
 }
 .font {
+}
+body {
+}
+.text-font {
+	font-size: 25px;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+}
+.text {
+	float: left;
 }
